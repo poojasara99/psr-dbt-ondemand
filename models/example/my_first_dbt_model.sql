@@ -1,2 +1,2 @@
 
-select * from raw.stripe.payment;
+select * from analytics.stripe.payment
